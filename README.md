@@ -18,9 +18,10 @@ $ npm install
 ```
 
 ### .ENV
-- Environment (NODE_ENV)
-- Mongo (DB_HOST, DB_PORT, DB_NAME, DB_USER, DB_PASS)
-- Host port (PORT)
+- Please rename `.env.example` to `.env` then fill your config
+- NODE_ENV
+- PORT
+- DB_HOST, DB_PORT, DB_NAME, DB_USER, DB_PASS
 
 ### Using guide
 ```bash
