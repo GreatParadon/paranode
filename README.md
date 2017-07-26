@@ -46,4 +46,4 @@ $ yarn serve
 
 *Feel free to open issues*
 
-### ทักฮามาก็ได้เน้อถ้าคิงเป็นคนไทย [FB](www.facebook.com/greatisadog)
+### ทักฮามาก็ได้เน้อถ้าคิงเป็นคนเมือง [FB](https://www.facebook.com/greatisadog)
