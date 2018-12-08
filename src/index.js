@@ -1,11 +1,11 @@
 const express = require('express');
 const path = require('path');
-const bodyParser = require('body-parser');
-const morgan = require('morgan');
-const chalk = require('chalk');
+import bodyParser from 'body-parser';
+import morgan from 'morgan';
+import chalk from 'chalk';
 const dotenv = require('dotenv').config();
 
-app = express();
+const app = express();
 app.set('port', process.env.PORT);
 
 // Connect Database
@@ -52,4 +52,4 @@ app.listen(port, () => {
   console.log(chalk.green(`Server started on port ${port}`));
 });
 
-module.exports = app;
+export default app;

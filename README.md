@@ -25,7 +25,7 @@ $ npm install
 
 ### Using guide
 ```bash
-$ yarn serve admin
+$ yarn make {admin}
 ```
 
 Serve host
